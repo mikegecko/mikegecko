@@ -104,14 +104,14 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="48" height="48"/>
       </a>
       <br>
-      <strong>JavaScript</strong>
+      <strong>Python</strong>
     </td>
     <td align="center" height="110" width="110">
       <a target="_blank" rel="noopener noreferrer" href="https://unity.com/">
         <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="48" height="48"/>
       </a>
       <br>
-      <strong>Photoshop</strong>
+      <strong>Unity</strong>
     </td>
     
   </tbody>
