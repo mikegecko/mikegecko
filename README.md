@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michael Guedko</h1>
-<h3 align="center">We are all students and teachers, and we should all strive to be the best in both.</h3>
+<h3 align="center">We are all students and teachers, and we should strive to be the best in both.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=russiangecko&label=Profile%20views&color=0e75b6&style=flat" alt="russiangecko" /> </p>
 
 - 🔭 I’m currently working on **The Odin Project**
 
@@ -22,3 +21,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=russiangecko&show_icons=true&locale=en" alt="russiangecko" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=russiangecko&" alt="russiangecko" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=russiangecko&label=Profile%20views&color=0e75b6&style=flat" alt="russiangecko" /> </p>
