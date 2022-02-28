@@ -121,9 +121,9 @@
 
 <h1 align="left">📈 Stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=russiangecko&show_icons=true&locale=en&layout=compact" alt="russiangecko" /></p>
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=russiangecko&show_icons=true&locale=en" alt="russiangecko" /></p>
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=russiangecko&" alt="russiangecko" /></p>
-
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=russiangecko&label=Profile%20views&color=0e75b6&style=flat" alt="russiangecko" /> </p>
