@@ -14,11 +14,11 @@
 <table>
   <tbody>
     <td align="center" height="110" width="110">
-      <a target="_blank" rel="noopener noreferrer" href="https://www.arduino.cc/">
-        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="48" height="48"/>
+      <a target="_blank" rel="noopener noreferrer" href="https://www.java.com">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="java" width="48" height="48"/>
       </a>
       <br>
-      <strong>Arduino</strong>
+      <strong>JavaScript</strong>
     </td>
     <td align="center" height="110" width="110">
       <a target="_blank" rel="noopener noreferrer" href="https://www.blender.org/">
@@ -72,11 +72,11 @@
       <strong>Java</strong>
     </td>
     <td align="center" height="110" width="110">
-      <a target="_blank" rel="noopener noreferrer" href="https://www.java.com">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="java" width="48" height="48"/>
+      <a target="_blank" rel="noopener noreferrer" href="https://www.arduino.cc/">
+        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="48" height="48"/>
       </a>
       <br>
-      <strong>JavaScript</strong>
+      <strong>Arduino</strong>
     </td>
     <td align="center" height="110" width="110">
       <a target="_blank" rel="noopener noreferrer" href="https://jestjs.io">
