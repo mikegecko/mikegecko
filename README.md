@@ -62,7 +62,6 @@
       <br>
       <strong>.NET</strong>
     </td>
-    
     </tr>
     <tr>
     <td align="center" height="110" width="110">
