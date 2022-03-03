@@ -21,6 +21,27 @@
       <strong>JavaScript</strong>
     </td>
     <td align="center" height="110" width="110">
+      <a target="_blank" rel="noopener noreferrer" href="https://www.w3.org/html/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="48" height="48"/>
+      </a>
+      <br>
+      <strong>HTML5</strong>
+    </td>
+    <td align="center" height="110" width="110">
+      <a target="_blank" rel="noopener noreferrer" href="https://www.w3schools.com/css/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="48" height="48"/>
+      </a>
+      <br>
+      <strong>CSS3</strong>
+    </td>
+    <td align="center" height="110" width="110">
+      <a target="_blank" rel="noopener noreferrer" href="https://git-scm.com/">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="48" height="48"/>
+      </a>
+      <br>
+      <strong>git</strong>
+    </td>
+    <td align="center" height="110" width="110">
       <a target="_blank" rel="noopener noreferrer" href="https://www.blender.org/">
         <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="48" height="48"/>
       </a>
@@ -35,33 +56,13 @@
       <strong>C#</strong>
     </td>
     <td align="center" height="110" width="110">
-      <a target="_blank" rel="noopener noreferrer" href="https://www.w3schools.com/css/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="48" height="48"/>
-      </a>
-      <br>
-      <strong>CSS3</strong>
-    </td>
-    <td align="center" height="110" width="110">
       <a target="_blank" rel="noopener noreferrer" href="https://dotnet.microsoft.com/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="48" height="48"/>
       </a>
       <br>
       <strong>.NET</strong>
     </td>
-    <td align="center" height="110" width="110">
-      <a target="_blank" rel="noopener noreferrer" href="https://git-scm.com/">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="48" height="48"/>
-      </a>
-      <br>
-      <strong>git</strong>
-    </td>
-    <td align="center" height="110" width="110">
-      <a target="_blank" rel="noopener noreferrer" href="https://www.w3.org/html/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="48" height="48"/>
-      </a>
-      <br>
-      <strong>HTML5</strong>
-    </td>
+    
     </tr>
     <tr>
     <td align="center" height="110" width="110">
