@@ -120,10 +120,10 @@
 
 
 <h1 align="left">📈 Stats</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=russiangecko&show_icons=true&locale=en&layout=compact" alt="russiangecko" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikegecko&show_icons=true&locale=en&layout=compact" alt="mikegecko" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=russiangecko&show_icons=true&locale=en" alt="russiangecko" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mikegecko&show_icons=true&locale=en" alt="mikegecko" /></p>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=russiangecko&" alt="russiangecko" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mikegecko&" alt="mikegecko" /></p>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=russiangecko&label=Profile%20views&color=0e75b6&style=flat" alt="russiangecko" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mikegecko&label=Profile%20views&color=0e75b6&style=flat" alt="mikegecko" /> </p>
