@@ -72,11 +72,11 @@
       <strong>Java</strong>
     </td>
     <td align="center" height="110" width="110">
-      <a target="_blank" rel="noopener noreferrer" href="https://www.arduino.cc/">
-        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="48" height="48"/>
+      <a target="_blank" rel="noopener noreferrer" href="https://reactjs.org/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="48" height="48"/>
       </a>
       <br>
-      <strong>Arduino</strong>
+      <strong>React</strong>
     </td>
     <td align="center" height="110" width="110">
       <a target="_blank" rel="noopener noreferrer" href="https://jestjs.io">
