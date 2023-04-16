@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Michael Guedko</h1>
-<h3 align="center">A carpenter trying his hand at crafting apps out of code instead of furniture from wood.</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 
-- 🔭 I’m currently working on **The Odin Project**
+- 🔭 I’m currently working on **The Odin Project** and developing my skills in Full-Stack development.
 
-- 🌱 I’m currently learning **Full-stack development**
+- 🌱  I’m proficient in **JavaScript, HTML5, CSS3, React, Jest, C#, .NET, and Java**.
+
+- 💼 I’m looking for opportunities as a Full-Stack Developer
 
 - 📫 How to reach me **mjgeko@gmail.com**
 
