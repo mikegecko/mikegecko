@@ -2,11 +2,11 @@
 <h3 align="center">Full-Stack Developer</h3>
 
 
-- 🔭 I’m currently working on **The Odin Project** and developing my skills in Full-Stack development.
+- 🔭 I’m currently working on **An AI powered web application** and developing my skills in Full-Stack development.
 
 - 🌱  I’m proficient in **JavaScript, HTML5, CSS3, React, Jest, C#, .NET, and Java**.
 
-- 💼 I’m looking for opportunities as a Full-Stack Developer
+- 💼 I’m looking for opportunities as a Full-Stack Developer, Front-end developer & Back-end developer
 
 - 📫 How to reach me **mjgeko@gmail.com**
 
